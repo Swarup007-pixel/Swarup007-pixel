@@ -1,45 +1,8 @@
 # 💫 About Me
 
-<table>
-<tr>
-<td width="35%" align="center">
+## 👋 Hi, I'm Swarup Mohapatra
 
-<img src="images/profile.png" width="280" alt="Profile Picture">
-
-</td>
-
-<td width="65%">
-
-## 👨‍💻 Hey, I'm Swarup Mohapatra
-
-I'm a **Computer Science undergraduate** passionate about **Software Engineering** and **Generative AI**. I enjoy building intelligent applications using **LLMs, RAG, AI Agents, and modern AI frameworks**, while continuously improving my problem-solving skills through **Data Structures & Algorithms**.
-
-### 🚀 Currently
-- 🔭 Building **Generative AI applications using LLMs, RAG & AI Agents**
-- 🌱 Learning **LangChain, FastAPI, MCP, Vector Databases & Agentic AI**
-- 💻 Practicing **Data Structures & Algorithms in C++**
-- 🎯 Preparing for **Software Engineering & AI internships**
-
-### 🤝 Open to
-- Open Source Contributions
-- AI/ML Projects
-- Full-Stack AI Applications
-- Hackathons & Collaborations
-
-### 💬 Ask me about
-- Python
-- C++
-- LangChain
-- Generative AI
-- RAG
-- AI Agents
-
-### ⚡ Fun Fact
-> I love turning ideas into real-world AI applications and believe the best way to learn is by building.
-
-</td>
-</tr>
-</table>
+A B.Tech CSE student passionate about building AI-powered applications and solving real-world problems. My interests lie in **Generative AI, Software Engineering, and Backend Development**. I enjoy learning new technologies, contributing to projects, and continuously improving my coding skills.
 
 
 ## 🌐 Socials:
