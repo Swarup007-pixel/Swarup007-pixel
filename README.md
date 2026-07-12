@@ -1,5 +1,45 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I'm currently working on **Generative AI applications using LLMs, RAG, and AI Agents**<br><br>🤝 I'm looking to collaborate on **Open Source, AI/ML, and Full-Stack AI projects**<br><br>💡 I'm looking for help with **building scalable AI systems and learning system design**<br><br>🌱 I'm currently learning **LangChain, FastAPI, Vector Databases, MCP, and Agentic AI**<br><br>💬 Ask me about **Python, C++, Data Structures & Algorithms, LangChain, and Generative AI**<br><br>⚡ Fun fact: **I love turning AI ideas into real-world applications and enjoy solving coding challenges.**
+# 💫 About Me
+
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="images/profile.png" width="280" alt="Profile Picture">
+
+</td>
+
+<td width="65%">
+
+## 👨‍💻 Hey, I'm Swarup Mohapatra
+
+I'm a **Computer Science undergraduate** passionate about **Software Engineering** and **Generative AI**. I enjoy building intelligent applications using **LLMs, RAG, AI Agents, and modern AI frameworks**, while continuously improving my problem-solving skills through **Data Structures & Algorithms**.
+
+### 🚀 Currently
+- 🔭 Building **Generative AI applications using LLMs, RAG & AI Agents**
+- 🌱 Learning **LangChain, FastAPI, MCP, Vector Databases & Agentic AI**
+- 💻 Practicing **Data Structures & Algorithms in C++**
+- 🎯 Preparing for **Software Engineering & AI internships**
+
+### 🤝 Open to
+- Open Source Contributions
+- AI/ML Projects
+- Full-Stack AI Applications
+- Hackathons & Collaborations
+
+### 💬 Ask me about
+- Python
+- C++
+- LangChain
+- Generative AI
+- RAG
+- AI Agents
+
+### ⚡ Fun Fact
+> I love turning ideas into real-world AI applications and believe the best way to learn is by building.
+
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Socials:
